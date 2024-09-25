@@ -1,2 +1,2 @@
-# Blog
+# blog
 A basic system
